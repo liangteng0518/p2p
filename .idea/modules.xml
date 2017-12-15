@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p2p.iml" filepath="$PROJECT_DIR$/p2p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-commons-config/p2p-commons-config.iml" filepath="$PROJECT_DIR$/p2p-commons-config/p2p-commons-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-commons-core/p2p-commons-core.iml" filepath="$PROJECT_DIR$/p2p-commons-core/p2p-commons-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-manager-backgroud/p2p-manager-backgroud.iml" filepath="$PROJECT_DIR$/p2p-manager-backgroud/p2p-manager-backgroud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2p-manager-front/p2p-manager-front.iml" filepath="$PROJECT_DIR$/p2p-manager-front/p2p-manager-front.iml" />
+    </modules>
+  </component>
+</project>
